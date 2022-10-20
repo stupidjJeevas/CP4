@@ -1,0 +1,9 @@
+A_mass, B_mass = map(int, input().split())
+obsh= []
+A = [int(i) for i in input().split())]
+B = [int(i) for i in input().split())]
+for i in A:
+    if i in B and not in obsh:
+          obsh.append(i)
+print(obsh)
+        
